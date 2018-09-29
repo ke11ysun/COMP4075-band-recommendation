@@ -3,7 +3,5 @@
 Main script is wi_project.py
 
 Reference:
-
-[darklyrics-scriper](https://github.com/medakk/darklyrics-scraper)
-
+[darklyrics-scraper](https://github.com/medakk/darklyrics-scraper)
 [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)
